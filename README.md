@@ -35,6 +35,7 @@ poor_posture_detection/
 ├── main.py                       # Entry point to run the posture detection system
 └── .gitignore                    # Ignore unnecessary files
 
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/d6d92a1d-56ec-44df-adc5-2f3f5ed5f6ff" />
 
 
 
